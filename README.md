@@ -18,7 +18,7 @@ voice tell a developer joke.
 
 ## Link
 
-[E-Commerce Site](https://qmkduran.github.io/E-Commerce-Site/)
+[Joke Generator](https://qmkduran.github.io/E-Commerce-Site/)
 ## Authors
 
 - [@qmkDuran](https://qmkduran.github.io/Joke-Generator/)
